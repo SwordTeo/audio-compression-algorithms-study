@@ -1,0 +1,49 @@
+# MATLAB autosave and editor files
+*.asv
+*.m~
+*.mlx.autosave
+
+# MATLAB project/session files
+*.prj
+*.mlproj
+*.slxc
+*.mex*
+*.p
+
+# Simulink generated files
+*.slx.r*
+*.mdl.r*
+slprj/
+sccprj/
+
+# Temporary / log files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MATLAB generated folders
+codegen/
+cache/
+resources/project/
+
+# Output folders (uncomment if needed)
+# results/
+# output/
+# exports/
+# temp/
+
+# Audio/output files generated during experiments (uncomment if needed)
+# *.wav
+# *.mp3
+# *.aac
+# *.csv
+# *.png
+# *.jpg

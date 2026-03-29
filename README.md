@@ -1,2 +1,1 @@
-# audio-compression-algorithms-study
-MATLAB and FFmpeg code for the experimental evaluation and comparison of audio signal compression algorithms.
+This repository accompanies the thesis “Comparative Study of Audio Signal Compression Algorithms” and contains the source code, experimental setup, and supporting material used in the conducted study. The work investigates the behavior of different audio compression configurations and codecs through a series of experiments implemented in MATLAB and FFmpeg. The repository includes code for bitrate analysis, CBR/VBR comparison, complexity measurements, sampling and quantization analysis, noise robustness testing, codec comparison (MP3 vs AAC), and the Audio Compression Analyzer GUI.
